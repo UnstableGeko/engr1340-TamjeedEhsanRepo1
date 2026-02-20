@@ -21,3 +21,7 @@ Subtract 4 from 6 → 2
 
 Keep the sign of the larger absolute value (6 is positive)
 
+
+Multiplication works by imagining groups of things so ab would be "a groups of b things." Then you take the total amout of items. 4\*3=12
+
+
